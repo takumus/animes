@@ -90,6 +90,3 @@
 - A.I.C.O. Incarnation
 - うらら迷路帖
 - カイバ
-- バキ Netflixオリジナル
-- はたらく細胞
-- 進撃の巨人 Season 3
