@@ -96,9 +96,10 @@
 - 3D彼女　リアルガール
 - B: The Beginning
 - A.I.C.O. Incarnation
-- うらら迷路帖
+- **うらら迷路帖**
 - **カイバ**
-- バキ Netflixオリジナル
+- `バキ Netflixオリジナル`
+- ~~BANANA FISH~~(0.1話)
 - ~~はたらく細胞~~(1話)
 - ~~進撃の巨人 Season 3~~(1話)
 - ハイスコアガール
